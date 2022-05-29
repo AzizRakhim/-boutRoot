@@ -1,0 +1,14 @@
+.App{
+  padding: 0 150px;
+}
+
+a{
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.active{
+  color: red !important;
+  text-decoration: underline;
+}
+
